@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I'm April!
+
+[Website](https://aprildawne.com) •
+[LinkedIn](https://www.linkedin.com/in/april-nickel/) •
+[Email](mailto:hello@aprildawne.com)
+
+---
+
+
 
 <!--
 **aprilnickel/aprilnickel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
