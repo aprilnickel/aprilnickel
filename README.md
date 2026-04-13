@@ -8,7 +8,7 @@
 
 ### :woman_technologist: About Me
 
-I care deeply about _how_ teams work — not just what they ship. I believe great software comes from healthy teams, so I build environments where people can truly thrive — where people feel seen, supported, and able to do their best work.
+I care deeply about _how_ teams work — not just what they produce. I believe great software comes from healthy teams, so I build environments where people can truly thrive — where people feel seen, supported, and able to do their best work.
 
 In other words, I'm a software engineer who's captivated by what it means to be human. I'm deeply curious about how people think, work, and grow, and I bring that curiosity into every interaction — at work and beyond. I'm intentional about showing up fully, and I aim to create space for others to do the same — because when people feel supported and empowered, they don't just do their best work, they grow into who they're capable of becoming.
 
