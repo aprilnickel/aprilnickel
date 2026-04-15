@@ -18,7 +18,7 @@ I'm intentional about showing up fully, bringing curiosity and genuine care for 
 
 🛠 Technical background:
 
-I'm a full-stack engineer with 7 years of working across the stack on a production Ruby on Rails + React SaaS platform (plus a handful of years building odds and ends before that). I guess you could say that makes me a Rails dev, but I love to learn, and dabble in everything from JS frameworks to DevOps & cloud infrastructure technologies.
+I'm a full-stack engineer with 7 years of experience working across the stack on a production Ruby on Rails + React SaaS platform (plus a handful of years building odds and ends before that). I guess you could say that makes me a Rails dev, but I love to learn, and dabble in everything from JS frameworks to DevOps & cloud infrastructure technologies.
 
 ❤️ Core values:
 - people above solutions
