@@ -8,15 +8,19 @@
 
 ### :woman_technologist: About Me
 
-I care deeply about _how_ teams work — not just what they produce. I believe great software comes from healthy teams, so I build environments where people can truly thrive — where people feel seen, supported, and able to do their best work.
+I’m a Senior Software Engineer who cares as much about people as I do about code.
 
-In other words, I'm a software engineer who's captivated by what it means to be human. I'm deeply curious about how people think, work, and grow, and I bring that curiosity into every interaction — at work and beyond. I'm intentional about showing up fully, and I aim to create space for others to do the same — because when people feel supported and empowered, they don't just do their best work, they grow into who they're capable of becoming.
+As a software engineer, I’ve experienced firsthand how a team that knows and cares for one another can not only withstand difficult situations, but even grow stronger through them. That is my mission—to know & care for those around me, creating space for intentionality & stillness amidst the ever-busy cadence of life, cultivating bonds that make the difference when the going gets tough.
 
-🛠 Some technical stuff:
+You may be wondering: _How does that make the cut for my intro as a software engineer?_ Don’t get me wrong, I think I’m a good developer, and I do love building, shipping, and refining systems that solve real problems. But more important than any of my technical skills, I believe **healthy teams** are the key ingredient for success.
 
-I'm a full stack engineer with 7 years of experience in Ruby on Rails-based SaaS development. I guess you could say that makes me a Rails dev, but I love to learn, and dabble in everything from JS frameworks to DevOps & cloud infrastructure technologies.
+I'm intentional about showing up fully, bringing curiosity and genuine care for people into my work, and I aim to create space for others to do the same. And I believe a domino effect is possible here, resulting in resilient teams that thrive and build incredible things, together.
 
-❤️ Some of my core values:
+🛠 Technical background:
+
+I'm a full-stack engineer with 7 years of working across the stack on a production Ruby on Rails + React SaaS platform (plus a handful of years building odds and ends before that). I guess you could say that makes me a Rails dev, but I love to learn, and dabble in everything from JS frameworks to DevOps & cloud infrastructure technologies.
+
+❤️ Core values:
 - people above solutions
 - continuous improvement & growth
 - collaboration & mentorship
